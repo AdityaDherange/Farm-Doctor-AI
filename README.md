@@ -1,2 +1,2 @@
-# Farm-Doctor-AI
-Dieases Detection web and 
+# farmdoctorai-main
+
